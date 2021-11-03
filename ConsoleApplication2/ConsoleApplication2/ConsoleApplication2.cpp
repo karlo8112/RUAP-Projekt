@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    cout << "Pozdrav iz aplikacije od Karlo Adžić" << endl;
+    cout << "Karlo Adžić, nema broj indeksa." << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
